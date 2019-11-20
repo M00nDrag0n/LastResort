@@ -10,25 +10,25 @@ _This website is a more creative version of the resort projects that we keep doi
 
 ## Setup/Installation Requirements
 
-* _Use this link [ https://m00ndrag0n.github.io/LastResort ] to access the global version of our fake travel website!_
+* _Use this link [ https://m00ndrag0n.github.io/LastResort/index.html ] to access the global version of our "luxury" resort website!_
 * _View our lovely page!_
 
 _No additional servers are needed_
 
 ## Known Bugs
 
-_There are no bugs in this website, as it is more simple than it appears._
+_There may or may not be typos that need to be fixed._
 
 ## Support and contact details
 
-_If any issues are present, reload the page_
+_If any issues are present, reload the page._
 
 ## Technologies Used
 
-_HTML, CSS, Bootstrap_
+_HTML and CSS_
 
 ### License
 
 *This project was prompted by Epicodus, Portland, OR*
 
-Copyright (c) 2019 **_{Anise Lester and Alan Hermanns, students of Epicodus}_**
+Copyright (c) 2019 **_Anise Lester and Lillian Theuma, students of Epicodus_**
