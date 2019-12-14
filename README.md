@@ -6,12 +6,12 @@
 
 ## Description
 
-_This website is a more creative version of the resort projects that we keep doing at Epicodus_
+_This website is a more creative version of the resort projects that we keep doing at Epicodus._
 
 ## Setup/Installation Requirements
 
 * _Use this link [ https://m00ndrag0n.github.io/LastResort/index.html ] to access the global version of our "luxury" resort website!_
-* _Click the links on the page!_
+* _Click the links on the index.html file!_
 
 _No additional servers are needed_
 
