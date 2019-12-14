@@ -1,1 +1,41 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+  text-align: center;
+  /* background-color: #342b3d; */
+}
 
+#img-van-1 img{
+  height: 250px;
+  width: 400px;
+}
+
+a {
+  color: #0019ff;
+}
+
+a:hover {
+  color: #0059ff;
+  font-size: 21px;
+}
+
+a:active {
+  color: #180236;
+}
+
+#img-fun-1 img {
+  height: 40px;
+  width: 55px;
+  position: absolute;
+  top: 330px;
+  left: 448px;
+  transform: rotate(350deg);
+}
+
+#fun-text-1 {
+  color: #ffffff;
+  position: absolute;
+  top: 250px;
+  left: 510px;
+  transform: rotate(350deg);
+}
