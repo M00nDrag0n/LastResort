@@ -2,12 +2,38 @@ body {
   font-family: 'Spectral';
   font-size: 19px;
   text-align: center;
-  /* background-color: #342b3d; */
+  background-color: #342b3d;
+  border-style: solid;
+  border-width: 20px;
+  border-color: #0e021c
 }
 
-#img-van-1 img{
-  height: 250px;
-  width: 400px;
+.interval {
+  border-top-color: #3a047a;
+  border-bottom-color: #1a013d;
+  border-left-color: black;
+  border-right-color: black;
+  border-width: 10px;
+  border-style: solid;
+  background-color: #b8ddf2;
+}
+
+.container {
+  background-color: #b8ddf2;
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+}
+
+h3 {
+  margin-left: 350px;
+  border-style: solid;
+  border-top-color: #1114ba;
+  border-left-color: #3a047a;
+  border-right-color: #01035c;
+  border-bottom-color: black;
+  border-width: 5px;
+  width: 550px;
 }
 
 a {
@@ -15,27 +41,23 @@ a {
 }
 
 a:hover {
-  color: #0059ff;
-  font-size: 21px;
+  color: #55b6ed;
+
 }
 
 a:active {
-  color: #180236;
+  color: #0004ff;
 }
 
-#img-fun-1 img {
-  height: 40px;
-  width: 55px;
-  position: absolute;
-  top: 330px;
-  left: 448px;
-  transform: rotate(350deg);
+.imgGroup-1 img{
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+  height: 125px;
+  width: 200px;
+  margin-top: 5px;
 }
 
-#fun-text-1 {
-  color: #ffffff;
-  position: absolute;
-  top: 250px;
-  left: 510px;
-  transform: rotate(350deg);
+.imgGroup-1 {
+  position: relative;
 }
